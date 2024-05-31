@@ -1,0 +1,7 @@
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment1-10969867\GradeCalculator\Grade Caculator\Grade Caculator\bin\Debug\Grade Caculator.exe.config
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment1-10969867\GradeCalculator\Grade Caculator\Grade Caculator\bin\Debug\Grade Caculator.exe
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment1-10969867\GradeCalculator\Grade Caculator\Grade Caculator\bin\Debug\Grade Caculator.pdb
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment1-10969867\GradeCalculator\Grade Caculator\Grade Caculator\obj\Debug\Grade Caculator.csproj.AssemblyReference.cache
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment1-10969867\GradeCalculator\Grade Caculator\Grade Caculator\obj\Debug\Grade Caculator.csproj.CoreCompileInputs.cache
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment1-10969867\GradeCalculator\Grade Caculator\Grade Caculator\obj\Debug\Grade Caculator.exe
+C:\Users\iamda\OneDrive\Documents\Codebases\Csharp\dcit318-assignment1-10969867\GradeCalculator\Grade Caculator\Grade Caculator\obj\Debug\Grade Caculator.pdb
